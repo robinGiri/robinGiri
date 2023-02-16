@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robin Giri
-- 👀 I’m interested in C# and AI
-- 🌱 I’m currently learning C# and dotnet
+- 👀 I’m interested in Python and AI
+- 🌱 I’m currently learning C#, dotnet and Python
 - 📫 You can reach me at https://twitter.com/robinGiri18
 
 <!---
