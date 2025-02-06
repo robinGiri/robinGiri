@@ -4,7 +4,7 @@ I'm a passionate and seasoned Software Developer with over 5 years of profession
 
 #### 🛠️ **Tech Stack:**
 - **Frontend:** Vue.js, Angular.js
-- **Backend:** Node.js, Express, Java Sprint boot
+- **Backend:** Node.js, Express, .net
 - **Database:** PostgreSQL
 - **Others:** Electron.js, React Native
 
