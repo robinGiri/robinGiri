@@ -3,10 +3,9 @@
 I'm a passionate and seasoned Software Developer with over 5 years of professional experience in creating innovative applications. I specialize in developing scalable and high-performance software solutions, with proficiency in a variety of programming languages and frameworks.
 
 #### 🛠️ **Tech Stack:**
-- **Frontend:** Vue.js, Angular.js
-- **Backend:** Node.js, Express, .net
-- **Database:** PostgreSQL
-- **Others:** Electron.js, React Native
+- **Frontend:** Vue.js, Angular.js, React
+- **Backend:** .NET
+- **Others:** React Native, Cypress
 
 #### 🏢 **Experience:**
 - **Software Developer | [LeanLaw](https://www.leanlaw.co/)**
