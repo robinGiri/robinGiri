@@ -3,9 +3,8 @@
 I'm a passionate and seasoned Software Developer with over 5 years of professional experience in creating innovative applications. I specialize in developing scalable and high-performance software solutions, with proficiency in a variety of programming languages and frameworks.
 
 #### 🛠️ **Tech Stack:**
-- **Frontend:** Vue.js, Angular.js, React
-- **Backend:** .NET
-- **Others:** React Native, Cypress
+- **Frontend:** Vue.js, React
+- **Backend:** .NET, Laravel
 
 #### 🏢 **Experience:**
 - **Software Developer | [LeanLaw](https://www.leanlaw.co/)**
@@ -23,7 +22,6 @@ I'm a passionate and seasoned Software Developer with over 5 years of profession
 
 #### 🤝 **Let’s Connect!**
 - 🌐 [LinkedIn](https://www.linkedin.com/in/robin-giri-3656b3179/)
-- 🐦 [Twitter](https://twitter.com/robinGiri18)
 - 📧 Email: girirobin2018@gmail.com
 
 #### 🔍 **Looking for Opportunities!**
